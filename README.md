@@ -16,7 +16,7 @@
 <div align="center">
 
 ### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=php,go,javascript,flutter,html,css,tailwind,react,mysql" height="55" />
+<img src="https://skillicons.dev/icons?i=php,javascript,flutter,html,css,tailwind,react,mysql" height="55" />
 
 ### **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,nginx" height="50" />
