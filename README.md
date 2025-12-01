@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I'm <b>Louie Lasit Abadines</b></h1>
-<h3 align="center">Full-Stack Developer | PHP • Go • JS • Flutter | Building Systems with Clean & Practical Architecture</h3>
+<h3 align="center">Full-Stack Developer | PHP • Laravel • JS • Flutter | Building Systems with Clean & Practical Architecture</h3>
 
 ---
 
