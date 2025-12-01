@@ -1,46 +1,71 @@
-<h2 align="center">Hello World 👋 I'm Louie Lasit Abadines</h2>
+<h1 align="center">👋 Hello World, I'm <b>Louie Lasit Abadines</b></h1>
+<h3 align="center">Full-Stack Developer | PHP • Go • JS • Flutter | Building Systems with Clean & Practical Architecture</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-</div>
+## 🚀 About Me
+- 💻 Passionate about **web systems, mobile apps, and backend development**
+- 🧩 Loves building **school systems, enrollment/payment portals, automations, and API-driven apps**
+- ⚡ Currently improving skills in **Go**, **Flutter**, and **System Architecture**
+- 🌱 Always learning — always shipping.
 
-###
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+
+### **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=php,go,javascript,flutter,html,css,tailwind,react,mysql" height="55" />
+
+### **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,nginx" height="50" />
+
 </div>
 
-###
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=louie2601&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=louie2601&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=louie2601&theme=dracula&hide_border=false" />
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=louie2601&theme=dracula&margin-w=10&no-frame=true" />
+</div>
+
+---
+
+## 🕹️ Fun Contribution Graphic
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/louie2601/louie2601/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/louie2601/louie2601/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/louie2601/louie2601/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/louie2601/louie2601/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+## 🧩 Featured Projects (Optional — You Can Add This!)
+Add your key systems:
+
+- 🔹 **Enrollment and Payment Management System** — PHP + MySQL + JS  
+- 🔹 **Agri Legal Portal** — A legal compliance system for farmers  
+- 🔹 **Mobile Student Portal** — Flutter + REST API  
+- 🔹 **Go-based Microservices (In Progress)**  
+
+---
+
+## 💬 Final Touch
+If you like this profile, consider leaving a ⭐ on my repositories!
+
