@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 💻 Passionate about **web systems, mobile apps, and backend development**
 - 🧩 Loves building **school systems, enrollment/payment portals, automations, and API-driven apps**
-- ⚡ Currently improving skills in **Go**, **Flutter**, and **System Architecture**
+- ⚡ Currently improving skills in **Laravel**, **ReactJS**,**Flutter**, and **System Architecture**
 - 🌱 Always learning — always shipping.
 
 ---
